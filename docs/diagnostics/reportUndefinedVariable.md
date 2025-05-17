@@ -1,4 +1,4 @@
-## Overview
+student_count## Overview
 
 `reportUndefinedVariable` flags cases where a variable is used before it is defined or assigned a value. This diagnostic helps catch potential runtime errors and improves code reliability by ensuring all variables are properly declared before use.
 
